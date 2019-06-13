@@ -9,10 +9,15 @@ It would also be very helpful to have an IDE installed which is capable of editi
 To install all the dependencies, please navigate to the root folder and call `pip3 install -r requirements.txt` to get a working environment.
 
 # Exercises
-
 1. Simple Webservice
 1. Parameters
 1. static files
 1. Blueprints
 1. Testing
 1. Docker deployment
+
+# Executing exercises
+Navigate to the root directory and run `python3 -m <package>.<pythonFileName>`
+
+# Solutions
+The solutions are checked in at the branch called solutions.
