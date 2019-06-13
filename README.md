@@ -11,8 +11,8 @@ To install all the dependencies, please navigate to the root folder and call `pi
 # Exercises
 1. Simple Webservice
 1. Parameters
-1. static files
 1. Blueprints
+1. static files
 1. Testing
 1. Docker deployment
 
