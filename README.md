@@ -20,4 +20,5 @@ To install all the dependencies, please navigate to the root folder and call `pi
 Navigate to the root directory and run `python3 -m <package>.<pythonFileName>`
 
 # Solutions
-The solutions are checked in at the branch called solutions.
+
+The solutions are inside the solutions folder.
