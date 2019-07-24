@@ -1,4 +1,4 @@
-# Second exercise
+# Third exercise
 ## Recap
 In the second exercise we created a simple webservice, which has no fixed URL, but can be called with a varying parameter. This parameter was also used for creating the response afterwards. 
 ## Exercise
