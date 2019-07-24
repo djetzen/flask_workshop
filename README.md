@@ -9,6 +9,9 @@ It would also be very helpful to have an IDE installed which is capable of editi
 To install all the dependencies, please navigate to the root folder and call `pip3 install -r requirements.txt` to get a working environment.
 
 # Exercises
+
+Have a look at the exercises inside the exercise folders. In each folder there is a markdown file with further instructions. 
+
 1. Simple Webservice
 1. Parameters
 1. Blueprints
