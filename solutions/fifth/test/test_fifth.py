@@ -1,6 +1,6 @@
 import flask
 from flask_api import status
-from solutions.fifth import greeting
+from solutions.fifth.fifth import greeting
 
 app = flask.Flask(__name__)
 app.register_blueprint(greeting)
