@@ -12,4 +12,4 @@ In this exercise we have a working example flask application in the file sixth.p
 - Finally let your application run by calling in a CMD `python3 -m exercises.sixth.sixth`. Please note, that the CMD needs to be called in square brackets and each word needs to be separated.
 
 
-Build your docker image with `docker build -t flask_sixth -f exercises/sixth/Dockerfile .` and let it run with `docker container run -p 5000:5000 flask_sixth `. Open up `localhost:5000/hello` in your browser and have a look, whether the container is working as expected.
+Build your docker image starting from the base folder of this repository with the command `docker build -t flask_sixth -f exercises/sixth/Dockerfile .`. Afterwards start the container with `docker container run -p 5000:5000 flask_sixth `. Open up `localhost:5000/hello` in your browser and have a look, whether the container is working as expected.
