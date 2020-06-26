@@ -8,4 +8,6 @@ Afterwards create three endpoints which attach to this blueprint. The endpoints 
 
 For further assistance have a look here: https://flask.palletsprojects.com/en/1.1.x/blueprints/
 
+Hint: Do not forget to attach the blueprint to the app.
+
 Run the application with `python3 -m exercises.third.third` and call the services under `localhost:5000/greeting/hello/yourName`, `localhost:5000/greeting/gday/yourName` and `localhost:5000/greeting/bonjour/yourName`
