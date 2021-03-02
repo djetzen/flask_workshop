@@ -2,4 +2,4 @@
 flask==1.0.2
 Flask-API==1.1
 # testing dependencies
-pytest==4.6.11
+pytest==6.2.2
