@@ -1,5 +1,5 @@
 # prod dependencies
-flask==1.1.4
+flask==2.2.3
 Flask-API==3.0.post1
 # testing dependencies
 pytest==6.2.5
